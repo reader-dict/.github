@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div style="width:100%;text-align:center">
 
 ![alt text](./header-logo.svg)
 
@@ -15,7 +15,3 @@ Clean, optimized dictionaries generated from Wiktionary data.
 Ready-to-install dictionary files for your device are available on the main project page:
 
 👉 [reader-dict.com](https://www.reader-dict.com)
-
-## License
-
-Dictionary files distributed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
