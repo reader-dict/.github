@@ -14,4 +14,5 @@ Clean, optimized dictionaries generated from Wiktionary data.
 
 Ready-to-install dictionary files for your device are available on the main project page:
 
-👉 [reader-dict.com](https://www.reader-dict.com)
+- 👉 [reader-dict.com](https://www.reader-dict.com)
+- 🔎 [try it online](https://lookup.reader-dict.com)
